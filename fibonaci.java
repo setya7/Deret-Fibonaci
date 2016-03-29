@@ -19,6 +19,7 @@ public class fibonaci {
         int N = Integer.parseInt(args[0]);
         for (int i = 1; i <= N; i++)
             System.out.println(i + ": " + fib(i));
+              System.out.println("Dirubahhhh bangggg");
     }
 
 }
